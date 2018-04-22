@@ -1,0 +1,54 @@
+
+form{
+width:800px;
+margin:30 auto;
+background:#097163;
+padding:15px;
+border-radius:5px;
+box-shadow: 0px 1px 20px 6px;
+}
+
+.button {
+    background-color: #273648;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: right;
+    display: inline-block;
+    font-size: 12px;
+    margin: 2px 2px;
+    cursor: pointer;
+	float: right;
+}
+
+.form h1{
+text-align:center;
+color:#eee;
+}
+
+.form h2{
+	text-align:center;
+	color:#eee;
+}
+
+#input{
+width:75%;
+height:40px;
+border:none;
+padding:10px;
+margin-bottom:3px;
+border-radius:3px;
+}
+
+#input[value='SIGN UP']{
+background:indianred;
+color:#eee;
+width:38%;
+}
+
+#wrapper
+{
+width:960px;
+margin:0 auto;
+}
